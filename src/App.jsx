@@ -15,7 +15,7 @@ function App() {
           <a href="#home">首页</a>
           <a href="#features">特性</a>
           <a href="#tech">技术栈</a>
-          <a href="#about">关于</a>
+          <a href="#about">关于-2026年3月27日16:29:12</a>
         </nav>
       </header>
 
